@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1761748677.54543 "main.bcf" "main.bbl" "main" 1761748887.30482 0
+["biber main"] 1761748677.54543 "main.bcf" "main.bbl" "main" 1761750350.04117 0
   "literatur_template.bib" 1761748673 29210 3aa8ac1b0babd3741efad18cb23b1f88 ""
-  "main.bcf" 1761748886 111286 04e4583597a88b78c7890613aa863046 "pdflatex"
+  "main.bcf" 1761750349 111286 04e4583597a88b78c7890613aa863046 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1761748884.91646 "c:/GitTeX/laTeX_Korrektur/main.tex" "main.pdf" "main" 1761748887.30588 0
+["pdflatex"] 1761750347.48882 "c:/GitTeX/laTeX_Korrektur/main.tex" "main.pdf" "main" 1761750350.04211 0
   "C:/Users/jaadler/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1761748168 111117 1893ee98a909f5c79a3d60dcc05388f0 ""
   "C:/Users/jaadler/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761748112 13322836 c4502f153c4e598e4779e4c0aa4f26dc ""
   "C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -152,15 +152,15 @@
   "C:/Users/jaadler/AppData/Local/Programs/MiKTeX/tex/latex/setspace/setspace.sty" 1670403145 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
   "C:/Users/jaadler/AppData/Local/Programs/MiKTeX/tex/latex/textgreek/textgreek.sty" 1318842019 9426 724c44018d4e53e78174ee5ba5fbca62 ""
   "C:/Users/jaadler/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "c:/GitTeX/laTeX_Korrektur/main.tex" 1761748673 38131 c1c3612887f5370e8d630e8836623997 ""
-  "main.aux" 1761748886 12886 2426b38fad9f3ddc7eb83ce165750d3a "pdflatex"
+  "c:/GitTeX/laTeX_Korrektur/main.tex" 1761750340 40807 a033254d24dea0fc1a4bc255a0dae505 ""
+  "main.aux" 1761750349 12886 d0b0c0b4e26b441f2f7eecc5915150dc "pdflatex"
   "main.bbl" 1761748879 20361 491d4bf6a3d10270bc0de06b6fa1d689 "biber main"
-  "main.lof" 1761748886 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
-  "main.lot" 1761748886 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
-  "main.out" 1761748886 8315 68bd717b46fd01f5b7f54edb1ce6e0ad "pdflatex"
-  "main.run.xml" 1761748886 2396 11d6a814c8fcc22be11e4b74ecc5d68d "pdflatex"
-  "main.tex" 1761748673 38131 c1c3612887f5370e8d630e8836623997 ""
-  "main.toc" 1761748886 4524 ffa69b04ec4de322265a32d3e43f1516 "pdflatex"
+  "main.lof" 1761750349 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
+  "main.lot" 1761750349 30 dd9a1bdf2f8dbad8adb0552ea4fb4223 "pdflatex"
+  "main.out" 1761750349 8315 68bd717b46fd01f5b7f54edb1ce6e0ad "pdflatex"
+  "main.run.xml" 1761750349 2396 11d6a814c8fcc22be11e4b74ecc5d68d "pdflatex"
+  "main.tex" 1761750340 40807 a033254d24dea0fc1a4bc255a0dae505 ""
+  "main.toc" 1761750349 4524 8880ad5650e269bee8d357e616159576 "pdflatex"
   (generated)
   "main.aux"
   "main.bcf"

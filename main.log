@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.29)  29 OCT 2025 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.10.29)  29 OCT 2025 16:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1208,58 +1208,60 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 [9]
 
 [10]
-Overfull \hbox (3.81126pt too wide) in paragraph at lines 307--308
+
+[11]
+Overfull \hbox (3.81126pt too wide) in paragraph at lines 372--373
 \T1/lmr/m/n/12 (-20) (Kom-mu-ni-ka-ti-ons-fre-quenz, Trai-nings-vo-lu-men, Sicht-bar-keit des Spon-so-rings); Outcome-
  []
 
-LaTeX Font Info:    Trying to load font information for LGR+lmr on input line 310.
+LaTeX Font Info:    Trying to load font information for LGR+lmr on input line 375.
 (C:\Users\jaadler\AppData\Local\Programs\MiKTeX\tex/latex/cbfonts-fd\lgrlmr.fd
 File: lgrlmr.fd 2017/07/29 v1.2 Scalable Greek Latin Modern Regular
 )
-Overfull \hbox (7.96828pt too wide) in paragraph at lines 322--323
+
+[12]
+Overfull \hbox (7.96828pt too wide) in paragraph at lines 387--388
  []\T1/lmr/bx/n/12 (-20) Case-Vignette C (KS) ^^U Tech Hy-gie-ne[] \T1/lmr/m/n/12 (-20) Adres-sier-te App-/Channel-Inkonsistenzen
  []
 
 
-
-[11]
-Overfull \hbox (3.27557pt too wide) in paragraph at lines 330--331
+Overfull \hbox (3.27557pt too wide) in paragraph at lines 395--396
 \T1/lmr/m/n/12 (-20) Erwartungsmanagement, Trai-ning, Com-mu-ni-ty/Office Hours, Sprach-/Kontextaspekte
  []
 
 
 
-[12]
-Overfull \hbox (10.69853pt too wide) in paragraph at lines 350--351
+[13]
+Overfull \hbox (10.69853pt too wide) in paragraph at lines 415--416
 []\T1/lmr/m/n/12 (-20) Lizenz-/Use-Case-Governance und ei-ne \T1/lmr/m/it/12 (-20) Adoption-
  []
 
 
 
-[13]
-
 [14]
-Underfull \hbox (badness 10000) in paragraph at lines 382--383
+
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 447--448
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
 
  []
 
 
-Overfull \hbox (19.4704pt too wide) in paragraph at lines 389--390
+Overfull \hbox (19.4704pt too wide) in paragraph at lines 454--455
 \T1/lmr/m/n/12 (-20) (Kom-mu-ni-ka-ti-ons-fre-quenz, Trai-nings-stun-den, Sponsoring-Sichtbarkeit) + Block \T1/lmr/m/it/12 (-20) Adoption-
  []
 
 
 
-[15]
+[16]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 412.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 477.
  (C:\Users\jaadler\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1269,9 +1271,9 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 
 
-[16]
-
 [17]
+
+[18]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 44.
 See the caption package documentation for explanation.
@@ -1282,7 +1284,7 @@ See the caption package documentation for explanation.
 
 
 
-[18] (main.aux)
+[19] (main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-10-09>
@@ -1294,17 +1296,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 25015 strings out of 468080
- 452062 string characters out of 5424803
+ 25016 strings out of 468080
+ 452069 string characters out of 5424803
  1410621 words of memory out of 5000000
  53019 multiletter control sequences out of 15000+600000
  707369 words of font info for 192 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  63i,12n,70p,1027b,2371s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/cbgreek/grmn1200.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/jaadler/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (24 pages, 414912 bytes).
+Output written on main.pdf (25 pages, 418432 bytes).
 PDF statistics:
- 583 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
+ 588 PDF objects out of 1000 (max. 8388607)
+ 137 named destinations out of 1000 (max. 500000)
  43833 words of extra memory for PDF output out of 51595 (max. 10000000)
 

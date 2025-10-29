@@ -21,31 +21,31 @@
 \contentsline {subsection}{\numberline {2.5}Integriertes Bezugsrahmenmodell \newline (Technologie–Organisation–Mensch)}{9}{subsection.2.5}%
 \contentsline {section}{\numberline {3}Forschungsdesign und Methodik}{10}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Designwahl und Forschungslogik}{10}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Datenquellen und Sampling}{10}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Operationalisierung der Variablen}{11}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Auswertungsverfahren}{11}{subsection.3.4}%
-\contentsline {subsection}{\numberline {3.5}Gütekriterien und ethische Aspekte}{11}{subsection.3.5}%
-\contentsline {section}{\numberline {4}Ergebnisse entlang der Theoriekonstrukte}{11}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Technologische Dimension (T)}{11}{subsection.4.1}%
-\contentsline {paragraph}{Case-Vignette C (KS) – Tech Hygiene}{11}{section*.10}%
-\contentsline {subsection}{\numberline {4.2}Organisationale Dimension (O)}{12}{subsection.4.2}%
-\contentsline {paragraph}{Case-Vignette D (KS) – Governance \& Champions}{12}{section*.11}%
-\contentsline {subsection}{\numberline {4.3}Menschliche Dimension (M)}{12}{subsection.4.3}%
-\contentsline {paragraph}{Case-Vignette A (KS) – Training \& Community}{12}{section*.12}%
-\contentsline {paragraph}{Case-Vignette E (KS) – Responsible Use}{12}{section*.13}%
-\contentsline {subsection}{\numberline {4.4}Zwischenfazit}{12}{subsection.4.4}%
-\contentsline {paragraph}{Case-Vignette B (KS) – Measurement \& Lizenzen}{12}{section*.14}%
-\contentsline {section}{\numberline {5}Diskussion}{13}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Theorieabgleich und Interpretation}{13}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Designprinzipien und Generalisierung}{13}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Implikationen für Forschung und Praxis}{13}{subsection.5.3}%
-\contentsline {subsection}{\numberline {5.4}Limitationen der Studie}{13}{subsection.5.4}%
-\contentsline {section}{\numberline {6}Fazit und Ausblick}{13}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Kernaussagen}{13}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Handlungsempfehlungen}{14}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Ausblick auf zukünftige Forschung}{14}{subsection.6.3}%
-\contentsline {section}{\numberline {A}Interviewleitfaden (Auszug, T–O–M)}{15}{appendix.A}%
-\contentsline {section}{\numberline {B}Umfrageinstrument (Auszug)}{15}{appendix.B}%
-\contentsline {section}{\numberline {C}Kodierleitfaden und zusätzliche Tabellen}{15}{appendix.C}%
-\contentsline {section}{Literaturverzeichnis}{16}{section*.18}%
-\contentsline {section}{Selbstständigkeitserklärung}{18}{section*.19}%
+\contentsline {subsection}{\numberline {3.2}Datenquellen und Sampling}{12}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Operationalisierung der Variablen}{12}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Auswertungsverfahren}{12}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.5}Gütekriterien und ethische Aspekte}{12}{subsection.3.5}%
+\contentsline {section}{\numberline {4}Ergebnisse entlang der Theoriekonstrukte}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Technologische Dimension (T)}{13}{subsection.4.1}%
+\contentsline {paragraph}{Case-Vignette C (KS) – Tech Hygiene}{13}{section*.10}%
+\contentsline {subsection}{\numberline {4.2}Organisationale Dimension (O)}{13}{subsection.4.2}%
+\contentsline {paragraph}{Case-Vignette D (KS) – Governance \& Champions}{13}{section*.11}%
+\contentsline {subsection}{\numberline {4.3}Menschliche Dimension (M)}{13}{subsection.4.3}%
+\contentsline {paragraph}{Case-Vignette A (KS) – Training \& Community}{13}{section*.12}%
+\contentsline {paragraph}{Case-Vignette E (KS) – Responsible Use}{13}{section*.13}%
+\contentsline {subsection}{\numberline {4.4}Zwischenfazit}{14}{subsection.4.4}%
+\contentsline {paragraph}{Case-Vignette B (KS) – Measurement \& Lizenzen}{14}{section*.14}%
+\contentsline {section}{\numberline {5}Diskussion}{14}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Theorieabgleich und Interpretation}{14}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Designprinzipien und Generalisierung}{14}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Implikationen für Forschung und Praxis}{14}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Limitationen der Studie}{15}{subsection.5.4}%
+\contentsline {section}{\numberline {6}Fazit und Ausblick}{15}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Kernaussagen}{15}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Handlungsempfehlungen}{15}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Ausblick auf zukünftige Forschung}{15}{subsection.6.3}%
+\contentsline {section}{\numberline {A}Interviewleitfaden (Auszug, T–O–M)}{16}{appendix.A}%
+\contentsline {section}{\numberline {B}Umfrageinstrument (Auszug)}{16}{appendix.B}%
+\contentsline {section}{\numberline {C}Kodierleitfaden und zusätzliche Tabellen}{16}{appendix.C}%
+\contentsline {section}{Literaturverzeichnis}{17}{section*.18}%
+\contentsline {section}{Selbstständigkeitserklärung}{19}{section*.19}%
