@@ -12,6 +12,3 @@
 *.run.xml
 *.synctex.gz
 *.toc
-
-# Kompiliertes PDF (meist will man nur den Quellcode .tex sichern)
-*.pdf
